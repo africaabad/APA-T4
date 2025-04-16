@@ -167,7 +167,7 @@ resultado de la ejecución de los tests unitarios.
 
 <img src="test_unitario1.png" width="600" align="center">
 
-<img src="test_unitario2.png" width="400" align="center"> 
+<img src="test_unitario2.png" width="600" align="center"> 
 
 #### Código desarrollado
 
